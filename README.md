@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrKeviscool
-- 👀 I’m interested in learning random shit and game dev
+- 👀 I’m interested in learning random stuff in any launguage and game dev
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on not much
 - 📫 How to reach me danielandkev@outlook.com
